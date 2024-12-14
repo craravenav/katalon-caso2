@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02- Verificar Codigo de Respuesta y existencia de token</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ab09172d-466c-456f-81b8-b42bbde838d2</testCaseGuid>
+</TestCaseEntity>

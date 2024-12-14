@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>04 - Login con credenciales invaldias</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b85b1e3a-42b8-4506-b516-4a7e602af062</testCaseGuid>
+</TestCaseEntity>

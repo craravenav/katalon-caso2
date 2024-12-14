@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03- Medir el Tiempo de respuesta</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b0d322e9-310d-436f-9626-b6686aa46e4c</testCaseGuid>
+</TestCaseEntity>
